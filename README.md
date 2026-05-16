@@ -2,7 +2,19 @@
 
 # Creative Automation Tool
 
-This project is a simple Django-based API that helps generate marketing creatives automatically. Instead of manually designing each image, you can upload a background and a logo, and the system will create multiple creatives by combining them with different panels.
+AI-powered creative automation backend built using Django REST Framework.
+Django REST Framework-based creative automation system that generates bulk marketing creatives using dynamic image processing, authenticated APIs, and automated media workflows.
+
+# Features
+JWT Authentication
+Protected REST APIs
+Bulk Creative Generation
+Image Upload & Processing
+ZIP Export System
+User-based Creative Dashboard
+Multi-user Architecture
+Media File Handling
+API-based Backend Architecture
 
 ## What this project does
 
@@ -19,7 +31,19 @@ The main idea was to automate repetitive creative design tasks.
 - Python  
 - Django  
 - Django REST Framework  
-- Pillow (for image processing)  
+- Pillow (for image processing)
+- JWT Authentication
+-  SQLite
+-  Postman
+
+
+# Future Plans:-
+React Frontend
+Payment Gateway Integration
+AI Caption Generation
+AI Image Enhancements
+Subscription System
+Cloud Deployment
 
 ## API Endpoint
 
